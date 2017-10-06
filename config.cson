@@ -1,0 +1,30 @@
+"*":
+  core:
+    audioBeep: false
+    autoHideMenuBar: true
+    disabledPackages: [
+      "ansible-vault"
+    ]
+    openEmptyEditorOnStart: false
+    packagesWithKeymapsDisabled: []
+    projectHome: "/home/meister/projects"
+    telemetryConsent: "no"
+  editor:
+    autoIndentOnPaste: false
+    fontSize: 11
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "8bb5d15e-f3ff-4bab-9c50-09b0dda39b01"
+  "git-plus":
+    remoteInteractions:
+      pullRebase: true
+  "spell-check":
+    locales: [
+      "en-US"
+    ]
+    useLocales: false
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
